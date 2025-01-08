@@ -4,7 +4,7 @@ Welcome to my profile. I am a software developer focusing on game development. I
 
 ## Current Projects
 - **Ferocity In Silence**: An open-world, story-driven horror FPS. [Play on Roblox](https://www.roblox.com/games/9161557310/Ferocity-In-Silence)
-- **Godkin**: A private game development project with a team. [View organization](https://github.com/Project-Godkin/)
+- **Godkin**: A game development project with a team. [View organization](https://github.com/Project-Godkin/)
 
 ## Learning
 - Advanced JavaScript concepts and TypeScript.
@@ -14,6 +14,7 @@ Welcome to my profile. I am a software developer focusing on game development. I
 ## Contact
 - Email: lisachandra@proton.me
 - Discord: [lisachandra](https://discordapp.com/users/758229030268174356)
+- Website: [lisachandra.github.io](https://lisachandra.github.io/)
 
 ## Languages and Tools
 
