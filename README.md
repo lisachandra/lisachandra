@@ -33,6 +33,7 @@ Welcome to my profile. I am a software developer focusing on game development. I
 ![Roblox-TS](https://img.shields.io/endpoint?url=https%3A%2F%2Frunkit.io%2Flisachandra%2Froblox-ts-badge-endpoint%2Fbranches%2Fmaster&style=for-the-badge)
 
 ### Development Tools
+![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-00A2FF?style=for-the-badge&logo=robloxstudio&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
