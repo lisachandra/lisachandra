@@ -12,9 +12,12 @@ Welcome to my profile. I am a software developer focusing on game development. I
 - Improving skills in game design and development.
 
 ## Contact
+
 - Email: lisachandra@proton.me
 - Discord: [lisachandra](https://discordapp.com/users/758229030268174356)
 - Website: [lisachandra.github.io](https://lisachandra.github.io/)
+
+[![Ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/lisachandra)
 
 ## Languages and Tools
 
@@ -51,6 +54,3 @@ Welcome to my profile. I am a software developer focusing on game development. I
 
 ## GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=lisachandra&theme=onedark)
-
-## Support me on ko-fi!
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/lisachandra)
