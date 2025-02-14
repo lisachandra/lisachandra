@@ -4,7 +4,7 @@ Welcome to my profile. I am a software developer focusing on game development. I
 
 ## Current Projects
 - **Ferocity In Silence**: An open-world, story-driven horror FPS. [Play on Roblox](https://www.roblox.com/games/9161557310/Ferocity-In-Silence)
-- **Godkin**: A game development project with a team. [View organization](https://github.com/Project-Godkin/)
+- **Endless Vistas**: A massive terrain exploration game covering 160 km². [Play on Roblox](https://www.roblox.com/games/72561150297547/Endless-Vistas)
 
 ## Learning
 - Advanced JavaScript concepts and TypeScript.
